@@ -1,3 +1,5 @@
+Video to help : https://www.youtube.com/watch?v=qiJYCjW_UEg
+
 How to Use the Discord Message Deletion Tool:
 
 Download and Extract the Latest Release
