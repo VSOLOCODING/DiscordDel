@@ -55,3 +55,13 @@ DiscordDel      ------------- Discord API  --------- discord
 Created by Ezcool Entities (Unregistered) Company
 
 Location: Canada.
+
+Screenshots of the app.
+
+<img width="1255" height="707" alt="image" src="https://github.com/user-attachments/assets/30c4647e-544f-430f-9ad5-3c3f2c2ae867" />
+
+Logs
+<img width="1232" height="692" alt="image" src="https://github.com/user-attachments/assets/d2ba0be6-f194-43ca-846e-cd6391f246de" />
+
+Logo
+<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/e955fe05-253d-428f-8cd8-c5f029470b36" />
