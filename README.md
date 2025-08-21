@@ -1,3 +1,7 @@
+⚠ Warning 
+DO NOT EVER SHARE YOUR DISCORD AUTH WITH ANOTHER PERSON THEY CAN FIND YOUR PASSWORD.
+WE DON'T SAVE/SHARE/RECEIVE, YOUR AUTH, USERID, MSG YOU DELETED TO ANY DEVICES/SERVERS.
+
 Video to help : https://www.youtube.com/watch?v=qiJYCjW_UEg
 
 How to Use the Discord Message Deletion Tool:
